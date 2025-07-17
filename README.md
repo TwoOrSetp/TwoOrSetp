@@ -6,7 +6,7 @@
 
 <div align="center">
   ⭐️ From [TwoOrSetp](https://github.com/TwoOrSetp)
-</div># Hi there! 👋 I'm [Your Name]
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Always+learning+new+things;Love+to+code+and+create!" alt="Typing SVG" />
@@ -105,64 +105,6 @@
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TwoOrSetp&repo=TwoOrSetp&theme=dracula&border_radius=10)](https://github.com/TwoOrSetp/TwoOrSetp)
 
-</div>
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-- 🎉 Merged PR [#1](https://github.com/TwoOrSetp/repo/pull/1) in [TwoOrSetp/repo](https://github.com/TwoOrSetp/repo)
-- 💪 Opened PR [#2](https://github.com/TwoOrSetp/repo/pull/2) in [TwoOrSetp/repo](https://github.com/TwoOrSetp/repo)
-- 🗣 Commented on [#3](https://github.com/TwoOrSetp/repo/issues/3) in [TwoOrSetp/repo](https://github.com/TwoOrSetp/repo)
-- ❗️ Opened issue [#4](https://github.com/TwoOrSetp/repo/issues/4) in [TwoOrSetp/repo](https://github.com/TwoOrSetp/repo)
-- 🎉 Merged PR [#5](https://github.com/TwoOrSetp/repo/pull/5) in [TwoOrSetp/repo](https://github.com/TwoOrSetp/repo)
-<!--END_SECTION:activity-->
-
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Create Amazing GitHub Profile README](https://dev.to/yourhandle/post1)
-- [Best Practices for Clean Code](https://dev.to/yourhandle/post2)
-- [Understanding JavaScript Async/Await](https://dev.to/yourhandle/post3)
-- [React Performance Optimization Tips](https://dev.to/yourhandle/post4)
-- [Building RESTful APIs with Node.js](https://dev.to/yourhandle/post5)
-<!-- BLOG-POST-LIST:END -->
-
-## 🎮 When I'm Not Coding
-
-- 🎵 Listening to music and exploring new genres
-- 🎮 Playing video games and discovering indie titles
-- 📚 Reading tech blogs and staying updated with industry trends
-- 🏃‍♂️ Staying active and exploring the outdoors
-
-## 🤝 Connect with Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
-  </a>
-  <a href="https://dev.to/yourhandle" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo" />
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://discord.com/users/yourdiscordid" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
-</div>
-
-## 💝 Support My Work
-
-<div align="center">
-  <a href="https://ko-fi.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=FF5E5B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo" />
-  </a>
-  <a href="https://buymeacoffee.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Buy%20Me%20A%20Coffee&logo=buy-me-a-coffee&label=&color=FFDD00&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="buymeacoffee logo" />
-  </a>
 </div>
 
 ---

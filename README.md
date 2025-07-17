@@ -1,39 +1,44 @@
-# 👋 Xin chào, tôi là Thanh!
+# Hi there! 👋 I'm [Your Name]
 
 <div align="center">
-  <h2>🚀 Sigma Developer từ Việt Nam 🇻🇳</h2>
-  <p><em>Passionate Full Stack Developer | Always Learning | Open Source Enthusiast</em></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Always+learning+new+things;Love+to+code+and+create!" alt="Typing SVG" />
 </div>
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TwoOrSetp&style=flat-square&color=blueviolet" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/TwoOrSetp?style=flat-square&color=blue" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/TwoOrSetp?style=flat-square&color=yellow" alt="GitHub stars" />
+</div>
 
-## 🚀 Về tôi
+## 🚀 About Me
 
-- 🔭 Hiện tại tôi đang làm việc với **React, TypeScript, và Python**
-- 🌱 Đang học **Machine Learning** và **Cloud Computing**
-- 👯 Tìm kiếm cơ hội hợp tác trong các **Open Source Projects**
-- 💬 Hỏi tôi về **Web Development, Mobile Apps, hoặc Data Science**
-- 📫 Liên hệ: **your.email@example.com**
-- ⚡ Sự thật thú vị: **Tôi yêu thích việc giải quyết thuật toán và uống cà phê ☕**
-
----
+- 🔭 Currently working on **[Current Project Name]**
+- 🌱 Learning **[Technologies you're learning]**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Web Development, Programming, Tech**
+- 📫 How to reach me: **[your-email@example.com]**
+- ⚡ Fun fact: **[Something interesting about you]**
 
 ## 📊 GitHub Stats
 
-> **Lưu ý:** Thay thế `YOUR_USERNAME` bằng username GitHub thực tế của bạn
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TwoOrSetp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&border_radius=10" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TwoOrSetp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&border_radius=10" height="150" alt="languages graph" />
+</div>
 
-```
-Để hiển thị stats, hãy thay thế YOUR_USERNAME trong các URL sau:
-- GitHub Stats: https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME
-- Top Languages: https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME
-- Streak Stats: https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME
-```
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TwoOrSetp&theme=dracula&hide_border=false&border_radius=10" alt="GitHub Streak" />
+</div>
 
----
+## 🏆 GitHub Trophies
 
-## 🛠️ Công nghệ & Công cụ
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TwoOrSetp&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
 
-### 💻 Ngôn ngữ lập trình
+## 💻 Tech Stack
+
+### Programming Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
@@ -48,7 +53,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo" />
 </div>
 
-### 🌐 Frontend Development
+### Frontend Development
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
@@ -58,13 +63,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo" />
 </div>
 
-### 🔧 Backend & Database
+### Backend & Database
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
@@ -72,110 +77,113 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
 </div>
 
-### 🔨 Tools & IDEs
+### Tools & Platforms
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" height="40" alt="rider logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="40" alt="appwrite logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
 </div>
 
----
-
-## 📈 Hoạt động
+## 📈 Contribution Graph
 
 <div align="center">
-  <p>📈 <strong>Coding Activity</strong> - Sẽ cập nhật khi bạn thêm username chính xác</p>
-  <p>🔥 <strong>Current Streak</strong> - Đang phát triển dự án mới</p>
-  <p>⭐ <strong>GitHub Stars</strong> - Cảm ơn cộng đồng đã ủng hộ</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TwoOrSetp&theme=dracula&bg_color=282a36&hide_border=true&border_radius=10" alt="Activity Graph" />
 </div>
 
----
-
-## 🏆 Achievements
+## 🎯 Current Projects
 
 <div align="center">
-  <p>🏆 <strong>GitHub Trophies</strong> - Sẽ hiển thị khi username được cập nhật</p>
-  <p>🚀 <strong>Projects Completed</strong> - Nhiều dự án thú vị</p>
-  <p>💡 <strong>Technologies Mastered</strong> - Luôn học hỏi công nghệ mới</p>
-</div>
-
----
-
-## 🌟 Dự án nổi bật
-
-<div align="center">
-  <p>🔗 <strong>Awesome Projects</strong> - Đang phát triển các dự án thú vị</p>
-  <p>📱 <strong>Mobile Apps</strong> - Ứng dụng di động sáng tạo</p>
-  <p>🌐 <strong>Web Applications</strong> - Giải pháp web hiện đại</p>
   
-  <em>Các repository sẽ được cập nhật sớm!</em>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TwoOrSetp&repo=TwoOrSetp&theme=dracula&border_radius=10)](https://github.com/TwoOrSetp/TwoOrSetp)
+
 </div>
 
----
+## 🔥 Recent Activity
 
-## 🤝 Kết nối với tôi
+<!--START_SECTION:activity-->
+- 🎉 Merged PR [#1](https://github.com/TwoOrSetp/repo/pull/1) in [TwoOrSetp/repo](https://github.com/TwoOrSetp/repo)
+- 💪 Opened PR [#2](https://github.com/TwoOrSetp/repo/pull/2) in [TwoOrSetp/repo](https://github.com/TwoOrSetp/repo)
+- 🗣 Commented on [#3](https://github.com/TwoOrSetp/repo/issues/3) in [TwoOrSetp/repo](https://github.com/TwoOrSetp/repo)
+- ❗️ Opened issue [#4](https://github.com/TwoOrSetp/repo/issues/4) in [TwoOrSetp/repo](https://github.com/TwoOrSetp/repo)
+- 🎉 Merged PR [#5](https://github.com/TwoOrSetp/repo/pull/5) in [TwoOrSetp/repo](https://github.com/TwoOrSetp/repo)
+<!--END_SECTION:activity-->
+
+## 📚 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How to Create Amazing GitHub Profile README](https://dev.to/yourhandle/post1)
+- [Best Practices for Clean Code](https://dev.to/yourhandle/post2)
+- [Understanding JavaScript Async/Await](https://dev.to/yourhandle/post3)
+- [React Performance Optimization Tips](https://dev.to/yourhandle/post4)
+- [Building RESTful APIs with Node.js](https://dev.to/yourhandle/post5)
+<!-- BLOG-POST-LIST:END -->
+
+## 🌟 Featured Repositories
 
 <div align="center">
-  <a href="https://www.youtube.com/channel/UCsX3IocJrGPgP4qtFlcbXIw" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo" />
+  <a href="https://github.com/TwoOrSetp/awesome-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TwoOrSetp&repo=awesome-project&theme=dracula&border_radius=10" alt="Awesome Project" />
   </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://twitter.com/your-handle" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
+  <a href="https://github.com/TwoOrSetp/cool-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TwoOrSetp&repo=cool-app&theme=dracula&border_radius=10" alt="Cool App" />
   </a>
 </div>
 
----
-
-## 📊 Coding Activity
+## 🎮 When I'm Not Coding
 
 <div align="center">
-  <p>📈 <strong>Weekly Coding Time</strong> - Sẽ cập nhật khi tích hợp Wakatime</p>
-  <p>💻 <strong>Favorite Languages</strong> - JavaScript, Python, TypeScript</p>
-  <p>⏰ <strong>Most Active Time</strong> - Tối và cuối tuần</p>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=your-spotify-username&count=3&unique=true" alt="Spotify recently played" />
+</div>
+
+## 🤝 Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
+  </a>
+  <a href="https://dev.to/yourhandle" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo" />
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://discord.com/users/yourdiscordid" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  </a>
+</div>
+
+## 💝 Support My Work
+
+<div align="center">
+  <a href="https://ko-fi.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=FF5E5B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo" />
+  </a>
+  <a href="https://buymeacoffee.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Buy%20Me%20A%20Coffee&logo=buy-me-a-coffee&label=&color=FFDD00&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="buymeacoffee logo" />
+  </a>
 </div>
 
 ---
 
-## 💡 Quote yêu thích
-
 <div align="center">
-  <blockquote>
-    <p><em>"Code is like humor. When you have to explain it, it's bad."</em></p>
-    <p><strong>- Cory House</strong></p>
-  </blockquote>
-  
-  <blockquote>
-    <p><em>"The best error message is the one that never shows up."</em></p>
-    <p><strong>- Thomas Fuchs</strong></p>
-  </blockquote>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Have%20a%20great%20day!&descAlignY=51&descAlign=center" />
 </div>
 
----
-
 <div align="center">
-  <p>🐍 <strong>Snake Animation</strong> - Sẽ hiển thị khi username được cập nhật</p>
-  <p><em>Contribution graph sẽ tạo hiệu ứng snake animation thú vị!</em></p>
+  ⭐️ From [TwoOrSetp](https://github.com/TwoOrSetp)
 </div>
-
----
-
-<div align="center">
-  <p>👀 <strong>Profile Views</strong> - Cảm ơn bạn đã ghé thăm!</p>
-  <p>👥 <strong>Followers</strong> - Cùng kết nối và học hỏi</p>
-</div>
-
-**⭐ Nếu bạn thích những dự án của tôi, hãy star chúng! ⭐**

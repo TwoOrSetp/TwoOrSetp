@@ -4,8 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Have%20a%20great%20day!&descAlignY=51&descAlign=center" />
 </div>
 
-<div align="center">
-  ⭐️ From [TwoOrSetp](https://github.com/TwoOrSetp)
 
 
 <div align="center">

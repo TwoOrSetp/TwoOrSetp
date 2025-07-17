@@ -1,4 +1,12 @@
-# Hi there! 👋 I'm [Your Name]
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Have%20a%20great%20day!&descAlignY=51&descAlign=center" />
+</div>
+
+<div align="center">
+  ⭐️ From [TwoOrSetp](https://github.com/TwoOrSetp)
+</div># Hi there! 👋 I'm [Your Name]
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Always+learning+new+things;Love+to+code+and+create!" alt="Typing SVG" />
@@ -130,21 +138,31 @@
 - [Building RESTful APIs with Node.js](https://dev.to/yourhandle/post5)
 <!-- BLOG-POST-LIST:END -->
 
-## 🌟 Featured Repositories
-
-<div align="center">
-  <a href="https://github.com/TwoOrSetp/awesome-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TwoOrSetp&repo=awesome-project&theme=dracula&border_radius=10" alt="Awesome Project" />
-  </a>
-  <a href="https://github.com/TwoOrSetp/cool-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TwoOrSetp&repo=cool-app&theme=dracula&border_radius=10" alt="Cool App" />
-  </a>
-</div>
-
 ## 🎮 When I'm Not Coding
 
+- 🎵 Listening to music and exploring new genres
+- 🎮 Playing video games and discovering indie titles
+- 📚 Reading tech blogs and staying updated with industry trends
+- 🏃‍♂️ Staying active and exploring the outdoors
+
+## 🤝 Connect with Me
+
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31njexv75s46kjhht4ii4xod4rne&count=3&unique=true" alt="Spotify recently played" />
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
+  </a>
+  <a href="https://dev.to/yourhandle" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devto logo" />
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://discord.com/users/yourdiscordid" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  </a>
 </div>
 
 ## 💝 Support My Work

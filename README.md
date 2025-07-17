@@ -18,15 +18,6 @@
   <img src="https://img.shields.io/github/stars/TwoOrSetp?style=flat-square&color=yellow" alt="GitHub stars" />
 </div>
 
-## 🚀 About Me
-
-- 🔭 Currently working on **[Current Project Name]**
-- 🌱 Learning **[Technologies you're learning]**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development, Programming, Tech**
-- 📫 How to reach me: **[your-email@example.com]**
-- ⚡ Fun fact: **[Something interesting about you]**
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -72,8 +63,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo" />
 </div>
 
 ### Backend & Database
